@@ -1,4 +1,4 @@
-#Study socs site(MIT version)
+#Study docs site(MIT version)
 This is a study docs site for my html learning.
 这个学习资料网站只用于实践我的html学习。
 I will not upload the docs,I will just upload the html,php and css files.
